@@ -4,5 +4,5 @@ This repository contains the solved python practicals I did in grade 12. It has 
 ## Solutions
 This folder contains python files of all solutions to the practical problems.
 
-## The word and pdf
+## PDF/Word
 The pdf and word docx contain all the practical problem along with their solutions as well as their output screenshots
