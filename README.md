@@ -1,7 +1,7 @@
 # Class-12-Practicals
-This repository contains the solved python practicals I did in grade 12. It has 3 folders - 
+This repository contains the solved python practicals I did in grade 12. It has 3 folders :-
 
-## Solutions
+## Practicals
 This folder contains python files of all solutions to the practical problems.
 
 ## PDF/Word
